@@ -1,2 +1,3 @@
 # git-tutorials
-a tutorial for git
+
+a tutorial for demonstrating git usage and lecturing.
